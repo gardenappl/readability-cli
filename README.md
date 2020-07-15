@@ -1,12 +1,16 @@
 # readability-cli
 
+### Note: this project has not been maintained for a long time. Check out https://gitlab.com/gardenappl/readability-cli instead.
+
 Read any web page from the command line using readability.js
 
 ![](http://recordit.co/Cdjrke/gif)
 
 ## Install
 
-    npm install -g readability-cli
+~~`npm install -g readability-cli`~~
+
+The `readability-cli` NPM package now points to https://gitlab.com/gardenappl/readability-cli.
 
 
 ## Usage
